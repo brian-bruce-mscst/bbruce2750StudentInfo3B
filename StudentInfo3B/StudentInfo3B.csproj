@@ -164,6 +164,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="SequenceDiagramScreenshots\2750ex3b01DeptChangedSeq.png" />
+    <Content Include="SequenceDiagramScreenshots\2750ex3b02CourseChangedSeq.png" />
+    <Content Include="SequenceDiagramScreenshots\2750ex3b03TermChangedSeq.png" />
+    <Content Include="SequenceDiagramScreenshots\2750ex3b04SectionChangedSeq.png" />
+    <Content Include="SequenceDiagramScreenshots\2750ex3b05EnrollChangedSeq.png" />
+    <Content Include="SequenceDiagramScreenshots\2750ex3b06AssignChangedSeq.png" />
+    <Content Include="SequenceDiagramScreenshots\2750ex3b07SaveGradeSeq.png" />
     <Content Include="StudentInfoModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>StudentInfoModel.Context.cs</LastGenOutput>
