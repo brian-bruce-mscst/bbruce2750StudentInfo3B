@@ -176,6 +176,7 @@
       <LastGenOutput>StudentInfoModel.Context.cs</LastGenOutput>
       <DependentUpon>StudentInfoModel.edmx</DependentUpon>
     </Content>
+    <Content Include="StudentInfoModel.edmx.sql" />
     <Content Include="StudentInfoModel.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>StudentInfoModel.cs</LastGenOutput>
